@@ -133,10 +133,10 @@
             desc: post.description,
             id: post.path
           }) %>
-    <% } else if (theme.changyan.on) { %>
+    <% } else if (theme.changyan.on && page.sourceId) { %>
 
         <%- partial('comments/changyan', {
-            sourceId: 'sourceId...',
+            sourceId: page.sourceId,
             appId: theme.changyan.appId,
             conf: theme.changyan.conf
         }) %>
