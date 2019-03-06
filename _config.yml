@@ -140,7 +140,7 @@ reward_wording2: '扫码打赏，心意已收'
 weixin: /img/weixin.png
 
 #是否开启“关于我”。
-aboutme: 96年，java工程师，爱折腾！
+aboutme: 专注java，jvm，分布式，并发，框架等技术.
 #aboutme: false
 
 # 是否在新窗口打开链接
@@ -168,11 +168,11 @@ baidushare: true
 
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
-google_site: # pFW527fHrjfI0si2w4NQ0w3cTw12AvvuohAu1PUfqKA
-baidu_site: #c167b9feb4f0b208b712c79629c188e4
+google_site: lnfhSoG6yCnNc186mNeTaloAjUgGPY9InrFe9ELlg8Y
+baidu_site: 6THwiadZrS
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X, or Baidu Analytics hash key
-google_analytics:
+google_analytics: UA-133456343-1
 baidu_analytics: f1c1bcd43bb13500d087f18deb22025f
 
 # 不蒜子网站计数设置
@@ -189,4 +189,4 @@ TipTitle: true
 Loading: true
 
 # 是否显示二维码名片，此处的路径是 spfk下source 里面的路径
-qrcodePath: /img/wechat_public.jpg
+qrcodePath: /img/jsbintask_wechat.png
